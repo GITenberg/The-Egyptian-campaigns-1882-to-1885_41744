@@ -1,0 +1,28 @@
+_repo: The-Egyptian-campaigns-1882-to-1885_41744
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41744-h/images/coversmall.jpg
+creator:
+  author:
+    agent_name: Royle, Charles
+    birthdate: 1882
+    deathdate: 1936
+    gutenberg_agent_id: '41337'
+    url: http://www.gutenberg.org/2009/agents/41337
+description: ''
+gutenberg_issued: '2012-12-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41744'
+  lccn: 05009549
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sudan -- History'
+- !lcsh 'Egypt -- History -- British occupation, 1882-1936'
+- !lcc 'DT'
+title: The Egyptian campaigns, 1882 to 1885
+url: http://www.gutenberg.org/ebooks/41744
